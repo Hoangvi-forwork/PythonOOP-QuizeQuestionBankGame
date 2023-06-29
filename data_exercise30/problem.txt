@@ -1,0 +1,5 @@
+Which cultural area corresponds to the following picture?:Mongolian steppe:data_exercise30/i5-1.png
+Which cultural area corresponds to the following picture?:Japanese geisha:data_exercise30/i5-2.png
+Which cultural area corresponds to the following picture?:Traditional Korean clothes:data_exercise30/i5-3.png
+Which cultural area corresponds to the following picture?:Da Nang Golden Bridge:data_exercise30/i5-4.png
+Which cultural area corresponds to the following picture?:Great Wall:data_exercise30/i5-5.png
